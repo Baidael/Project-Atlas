@@ -1,0 +1,5 @@
+cat << EOF > .gitignore
+.env
+*.log
+.DS_Store
+EOF
